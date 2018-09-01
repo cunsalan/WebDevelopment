@@ -1,0 +1,7 @@
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\HTMLFive\bin\HTMLFive.dll.config
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\HTMLFive\bin\HTMLFive.dll
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\HTMLFive\bin\HTMLFive.pdb
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\HTMLFive\obj\Debug\HTMLFive.csprojAssemblyReference.cache
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\HTMLFive\obj\Debug\HTMLFive.csproj.CoreCompileInputs.cache
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\HTMLFive\obj\Debug\HTMLFive.dll
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\HTMLFive\obj\Debug\HTMLFive.pdb

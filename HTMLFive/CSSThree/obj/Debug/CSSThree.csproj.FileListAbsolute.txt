@@ -1,0 +1,7 @@
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\CSSThree\bin\CSSThree.dll.config
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\CSSThree\bin\CSSThree.dll
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\CSSThree\bin\CSSThree.pdb
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\CSSThree\obj\Debug\CSSThree.csprojAssemblyReference.cache
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\CSSThree\obj\Debug\CSSThree.csproj.CoreCompileInputs.cache
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\CSSThree\obj\Debug\CSSThree.dll
+C:\Users\cunsa\Source\Repos\WebDevelopment\HTMLFive\CSSThree\obj\Debug\CSSThree.pdb
